@@ -2,7 +2,6 @@
 | -------- | ------- |
 | Category | OSINT |
 | CTF | Arab Regional Finals 2022 |
-| Solves | 9 |
 | key concepts | osint process  |
 | description | we have received news that there are some criminals planning to steal something valuable and our friends were able to get us some emails between the criminals but we didn't figure out their plan yet. can you help us? |
 | Given Files | [mails.eml](https://github.com/HussienMisbah/OSINT1337/blob/master/Challenges%20Files/mails.eml) |
