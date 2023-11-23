@@ -2,7 +2,6 @@
 | -------- | ------- |
 | Category | OSINT |
 | CTF | Africa Regional Finals 2022 |
-| Solves | 9 |
 | key concepts | osint process , image analysis  |
 | description | your favourite osint challenge , flag is in format : flag{Latitude,Longitude} , only 4 digits after the decimal point. (ex: 112.12345 --> 112.1234)|
 | Given Files | [As1at1c.png](https://github.com/HussienMisbah/OSINT1337/blob/master/Challenges%20Files/As1at1c.png) |
